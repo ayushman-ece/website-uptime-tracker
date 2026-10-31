@@ -1,0 +1,5 @@
+timestamp,url,status,response_time_ms,uptime,error
+2026-10-31T13:51:50,https://www.google.com,200,1385.47,UP,
+2026-10-31T13:51:50,https://www.github.com,200,1527.36,UP,
+2026-10-31T13:51:50,https://www.wikipedia.org,403,1059.33,DOWN,
+2026-10-31T13:51:50,https://example.invalid,N/A,N/A,DOWN,"HTTPSConnectionPool(host='example.invalid', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='example.invalid', port=443): Failed to resolve 'example.invalid' ([Errno 11001] getaddrinfo failed)""))"
